@@ -1,0 +1,52 @@
+{
+	"basics":{
+		"name":"Tejaswi Nadella",
+		"role":"software-Engineering",
+		"mobile":"+91 77265378442",
+		"email":"tejaswinadella12@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	
+	"education":[
+		{
+		"degree":"B.tech(Computer science engineering)",
+		"institution":"Vignan Nirula",
+		"data":["2016-2020","75%"]
+	    },
+	    {
+       	"degree":"Diploma(CME)",
+		"institution":"Vignan ",
+		"data":["2014-2016","75%"]
+	    },
+	   {
+		"degree":"S.S.C",
+		"institution":"Bhashyam",
+		"data":["2013-2014","95%"]
+	    }
+	],
+	"skills":[
+		{
+			"title":"Programming language",
+			"content":[" Python ","  C ","  C++ " , " Java" , " SRP "]
+		},
+		{
+			"title":"Databases",
+			"content":[" SQL ","  Oracle ","  MySQL "]
+		},
+		{
+           "title":"Web Technologies",
+		   "content":[" HTML ","  XML "," Java Script"]
+		},
+		{
+			"title":"Operating System",
+			"content":[" Windows "," Unix ","  Linux "]
+		}
+	]
+
+}
+	   
